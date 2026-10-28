@@ -1,7 +1,7 @@
 # 🎸 Enterprise Guitar Inventory — Object-Oriented Inventory Management Application
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:2DD4BF&customColorList=134E4A,0D9488,2DD4BF&height=220&section=header&text=Enterprise%20Guitar%20Inventory&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Extensible%20OOP%20Architecture%2C%20Search%20Spec%20%26%20Inventory%20Engine&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Enterprise Guitar Inventory Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0D9488,100:2DD4BF&customColorList=134E4A,0D9488,2DD4BF&height=220&section=header&text=Enterprise%20Guitar%20Inventory&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Extensible%20OOP%20Architecture%2C%20Search%20Spec%20and%20Inventory%20Engine&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Enterprise Guitar Inventory Banner" />
 </p>
 
 <p align="center">
